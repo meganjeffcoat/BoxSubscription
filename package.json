@@ -1,0 +1,9 @@
+{
+  "name": "BoxSubscription",
+  "version": "1.0.0",
+  "description": "Collection of Box Subscriptions and reviews ",
+  "main": "index.js",
+  "repository": "https://github.com/meganjeffcoat/BoxSubscription.git",
+  "author": "meganjeffcoat <jeffcoat.megan@gmail.com>",
+  "license": "MIT"
+}
